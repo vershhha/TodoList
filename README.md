@@ -1,8 +1,8 @@
-# React + Vite
+This is a React project, uses 
+ 1. Vite framework
+ 2. Tainpmnd CSS
+ 3. Uses local storage functionalities
+ 4. Uses Context functionalities
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-----------------------------
+To use this project, run `npm install` to download **node_modules** folder
